@@ -30,4 +30,3 @@ function App() {
 }
 
 export default App;
-// import shortcut ctrl + space
